@@ -1,4 +1,4 @@
-# spam-filtering - implementing Naive Bayes Theorem in GO
+### spam-filtering - implementing Naive Bayes Theorem in Go
 
 Heavily inspired by [Tsoding's "Email Spam Filter in Go" video](https://www.youtube.com/watch?v=JsfOXk7qmSM).
 
