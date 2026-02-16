@@ -14,7 +14,7 @@ where:
 - $P(C)$ - probability of a `class` of document to be `True` (in this case the `SPAM class`)
 
 
-## # get the dataset
+### get the dataset
 
 Go to https://www2.aueb.gr/users/ion/data/enron-spam/ and download and extract `enron1`, `enron2` etc. and put them in `data/`
 
