@@ -23,4 +23,5 @@ Go to https://www2.aueb.gr/users/ion/data/enron-spam/ and download and extract `
 ## Progress:
 - [x] generate Bag-of-Words for a directory
 - [x] compute $P(D)$ for a given document (at a `filePath`)
-- [ ] compute $P(C)$
+- [x] compute $P(C)$
+- [ ] compute $P(D|C)$
